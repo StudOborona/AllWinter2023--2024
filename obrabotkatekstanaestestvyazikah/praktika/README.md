@@ -16,7 +16,8 @@ Praktika 5 - https://colab.research.google.com/drive/1yMaL0-AkN0VsE0Yq-sxk-jWmeI
 
 Praktika 6 - https://colab.research.google.com/drive/12jGgXLJvYa-tBnqKwg4VpKmmii9l6pQ_?usp=sharing
 
-\n
+\n\n\n
+
 Задание 1 = Praktika 1 и т.д.
 
 Задание 1. Сравнить качество методов векторизации CountVectorizer и TF-IDF на примере задачи классификации текстов. Сделать выводы.
