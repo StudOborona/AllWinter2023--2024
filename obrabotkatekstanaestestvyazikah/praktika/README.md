@@ -16,7 +16,7 @@ Praktika 5 - https://colab.research.google.com/drive/1yMaL0-AkN0VsE0Yq-sxk-jWmeI
 
 Praktika 6 - https://colab.research.google.com/drive/12jGgXLJvYa-tBnqKwg4VpKmmii9l6pQ_?usp=sharing
 
-\n\n\n
+&nbsp;
 
 Задание 1 = Praktika 1 и т.д.
 
